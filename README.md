@@ -11,7 +11,11 @@ Two documents, both grounded in the [NIST AI Risk Management Framework (AI RMF 1
 | Document | Use it to |
 |---|---|
 | **[AI Governance Maturity Self-Assessment](AI-Governance-Maturity-Assessment.md)** | Find out where you stand in five minutes. Ten questions across six dimensions, three maturity bands, and a prioritized set of next steps. A directional indicator to start the conversation, not an audit. |
-| **[AI Governance & Innovation Framework: Template](AI-Governance-Framework-Template.md)** | Stand up an actual governance program. A full framework template: governance structure, ethics principles, a four-tier risk classification, an end-to-end AI lifecycle, data governance, security threat model, vendor evaluation, regulatory mapping, workforce readiness, and metrics. Search-and-replace `[ORGANIZATION]` and delete what does not apply. |
+| **[AI Governance & Innovation Framework: Template](AI-Governance-Framework-Template.md)** | Stand up an actual governance program. A full framework template: governance structure, ethics principles, a four-tier risk classification, an end-to-end AI lifecycle, data governance, security threat model, agentic AI governance, vendor evaluation, regulatory mapping, workforce readiness, and metrics. Search-and-replace `[ORGANIZATION]` and delete what does not apply. |
+
+### New in v1.1: Agentic AI Governance (Section 10)
+
+Most AI governance material still assumes a model that returns an answer for a person to check. Agents plan, call tools, hold memory, and act. Section 10 adds the controls that autonomy actually requires: a five-level autonomy scale, agent identity and registration, tool and action authorization by blast radius, memory governance, multi-agent trust boundaries, tested stop controls, decision-trace logging, an agent-specific threat model, adversarial testing, lifecycle gates, vendor questions, and metrics. Informed by the [OWASP Agentic Security Initiative](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/) and NIST's [Control Overlays for Securing AI Systems (COSAiS)](https://csrc.nist.gov/projects/cosais) project.
 
 ## Who this is for
 
@@ -19,7 +23,7 @@ Executives, boards, and operators in risk-driven environments who have to answer
 
 ## Why we publish these
 
-CarbeneAI is a Fractional CTO + CISO and AI strategy practice. These templates are not our product. They are how we show our work. The judgment behind adapting a framework to your specific risk, regulatory, and operating reality is where the real work happens, and that is the conversation worth having.
+CarbeneAI is an AI security and strategy practice. These templates are not our product. They are how we show our work. The judgment behind adapting a framework to your specific risk, regulatory, and operating reality is where the real work happens, and that is the conversation worth having.
 
 The rest of what we build in the open lives at [github.com/CarbeneAI](https://github.com/CarbeneAI) and [carbene.ai/open-source](https://carbene.ai/open-source).
 
