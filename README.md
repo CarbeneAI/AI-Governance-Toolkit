@@ -42,6 +42,10 @@ These are starting points, not legal advice, and not a substitute for counsel or
 
 Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). Free to use, adapt, and redistribute, including commercially, with attribution to CarbeneAI.
 
+Nothing here is gated and nothing is for sale. If these save you time, you can fuel the next one:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-carbeneai-ffdd00.svg?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/carbeneai)
+
 ---
 
 Built by CarbeneAI. Questions or want a working session? [carbene.ai/contact](https://carbene.ai/contact)
