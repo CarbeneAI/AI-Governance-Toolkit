@@ -12,6 +12,7 @@ Two documents, both grounded in the [NIST AI Risk Management Framework (AI RMF 1
 |---|---|
 | **[AI Governance Maturity Self-Assessment](AI-Governance-Maturity-Assessment.md)** | Find out where you stand in five minutes. Ten questions across six dimensions, three maturity bands, and a prioritized set of next steps. A directional indicator to start the conversation, not an audit. |
 | **[AI Governance & Innovation Framework: Template](AI-Governance-Framework-Template.md)** | Stand up an actual governance program. A full framework template: governance structure, ethics principles, a four-tier risk classification, an end-to-end AI lifecycle, data governance, security threat model, agentic AI governance, vendor evaluation, regulatory mapping, workforce readiness, and metrics. Search-and-replace `[ORGANIZATION]` and delete what does not apply. |
+| **[Shadow AI Inventory & Policy Kit](Shadow-AI-Inventory-Policy-Kit.md)** | Find and govern the AI your workforce already uses. A one-page inventory worksheet (12 columns mapped to NIST AI RMF Govern/Map) plus the minimum policy language to make it stick. Start with amnesty, not audit. Healthcare and regulated industries called out where the requirements differ. |
 
 ### New in v1.1: Agentic AI Governance (Section 10)
 
