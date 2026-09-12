@@ -1,8 +1,8 @@
 # AI Governance & Innovation Framework: Template
 
-**Version 1.1 (Template)**
+**Version 1.2 (Template)**
 
-Based on NIST AI RMF 1.0 and ISO/IEC 42001:2023, with agentic controls informed by the OWASP Agentic Security Initiative and NIST's SP 800-53 Control Overlays for Securing AI Systems project
+Based on NIST AI RMF 1.0 and ISO/IEC 42001:2023, with agentic controls informed by the OWASP Agentic Security Initiative and NIST's SP 800-53 Control Overlays for Securing AI Systems project. The ethics section is anchored by a human-dignity-first commitment (Section 4).
 
 ## How to use this template
 
@@ -126,6 +126,10 @@ Set the procurement threshold at a level that fits your budget and risk toleranc
 # 4. AI Ethics Principles
 
 [ORGANIZATION]'s AI ethics principles are grounded in widely recognized responsible-AI values (fairness, accountability, transparency, safety) and aligned with the NIST AI RMF and ISO/IEC 42001. In regulated sectors, align them with your sector's professional and ethical guidance as well.
+
+**The anchor: the human person comes first.** Every principle below serves one commitment. AI systems exist to serve the people affected by them, not the other way around. A system must never reduce a person to a productivity score, a data point, or a case to be cleared, and it must never become an instrument of domination or exclusion over the people it touches. Two tests keep this concrete: no one may be pushed to the margins by an automated decision, and no one may be reduced to what a model can measure about them. Where efficiency and human dignity conflict, dignity wins, and the framework's controls (human oversight, bias mitigation, explainability, accountability) are how [ORGANIZATION] holds that line in practice rather than in slogan.[^dignity]
+
+[^dignity]: This human-dignity-first framing draws on Pope Leo XIV, *Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence* (encyclical, 15 May 2026), which argues that AI must be "freed from logics that turn it into an instrument of domination, exclusion and death" and directed instead toward the common good, so that "no person can be left at the margins of digital transformation" and no one is "reduced to productivity, to cognitive performance, or to mere data." The principle is offered here as a widely resonant statement of human dignity, not as a religious requirement; organizations of any or no faith tradition can adopt it. Official text: vatican.va.
 
 ## 4.1 Transparency & Explainability
 
